@@ -1,4 +1,5 @@
 ## Hi there 👋
+Myself Darshan Thapa Magar from Syangja,Nepal currently studying software engineering at NCIT
 
 <!--
 **darshan2436/darshan2436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
